@@ -1,5 +1,5 @@
 # New York City For-Hire Vehicles Trip Data
----
+
 **Overview**
 
 New York City is well known for the transportation services offered across the 5 boroughs. Including, but not limited to, bikes, taxis, trains, and ferrys. These services allow riders to have a variety of services to travel from one location to another.
